@@ -55,7 +55,8 @@ project.
 
 ### **TextPipeline**
 
-Handles: - Lowercasing\
+Handles:
+- Lowercasing\
 - Expanding contractions\
 - Cleaning spaces\
 - Tokenization
