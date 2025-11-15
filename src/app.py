@@ -11,7 +11,7 @@ def load_model():
         num_labels=5
     )
     # You can use any model here
-    state_dict = torch.load('./model.bin', map_location='cpu')
+    state_dict = torch.load('../models/best_roberta_large_model.bin', map_location='cpu')
     model.load_state_dict(state_dict)
     model.eval()
     

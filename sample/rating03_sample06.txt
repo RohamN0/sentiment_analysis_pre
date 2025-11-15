@@ -1,0 +1,1 @@
+i had struggles with the unit setup as an extender....every other day it needed to be reset. i ended up using now as an access point and that works fine but would have rather it worked better as an extender. now i have to choose from 2 networks for wi-fi instead of just one. (the 2nd one is labeled with "...-ext" after the network name.
